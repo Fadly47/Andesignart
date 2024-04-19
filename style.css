@@ -1,0 +1,116 @@
+.outside{
+    background-color: rgb(11, 111, 234, 0.8);
+    position: relative;
+}
+
+body{
+    background-color: rgb(238, 243, 240);
+    text-align: center;
+    position: relative;
+}
+
+.anoo{
+    position: absolute;
+    z-index: -2;
+
+}
+
+header{
+    background-color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    position: relative;
+    color: rgb(228, 240, 240);
+    
+
+
+}
+
+p{
+    font-size: 20px;
+}
+
+.andesignart{
+    padding: 1px;
+}
+.intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 11px;
+    box-shadow: 40px;
+    
+}
+
+.ano{
+    margin: 20px;
+    width: 50%;
+}
+
+.Keahlian{
+    background-color: beige;
+    display: inline-block;
+    margin: 5px;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+
+.tools{
+    justify-content: space-between;
+    margin: 15px;
+}
+
+div{
+    display: inline-block;
+}
+
+.portfoliocorel{
+    display: inline-block;
+    background-color: aquamarine;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.corel{
+    width: 30%;
+    margin: 10px;
+    border-style: outset;
+}
+
+.portfoliophotoshop{
+    display: inline-block;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
+.ps{
+    width: 30%;
+    margin: 10px;
+    border-style: outset;
+}
+
+.contact{
+    display: inline-block;
+    background-color: rgb(213, 44, 44);
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+#wa, #fiverr, #behance, #ig{
+    display: inline-block;
+    width: 10%;
+    margin: 25px;
+}
+
+#deviantart{
+    width: 10%;
+    margin: 10px;
+
+}
